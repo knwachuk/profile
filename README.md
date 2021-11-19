@@ -7,4 +7,5 @@ This is an introduction
 
 ## Projects
 
-[My Awesome Project](https://knwachuk.github.io/Neural_Network_Charity_Analysis/)
+1. [Neural Network Charity Analysis](https://knwachuk.github.io/Neural_Network_Charity_Analysis/)
+2. [Weather Storm Forecasting](https://knwachuk.github.io/Neural_Network_Charity_Analysis/)
